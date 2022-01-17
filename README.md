@@ -1,7 +1,6 @@
-# Minima 
-### A text editor built using react (In development) 
+# Minima - Text editor
 
-Currently in development
+### A text editor built using react (In development) 
 
 Not much to say except what I plan on doing
 
